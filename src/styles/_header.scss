@@ -5,7 +5,7 @@
     top: 0;
     left: 0;
     z-index: 1;
-    background-color: variaveis.$corDeFundo;
+    background-color: variaveis.$corDoHeader;
     transition: background-color .5s ease;
 
     &--is-hidden {
